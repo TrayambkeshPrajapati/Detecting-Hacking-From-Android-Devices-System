@@ -20,20 +20,16 @@ Threat Scan History & PDF Reports: Stores scan history and allows users to expor
 
 Lottie Animations: Provides an enhanced UI/UX experience using smooth animations.
 
+
 Technologies Used
-
 Programming Language: Java
-
 Framework: Android Studio
-
 API: VirusTotal API
-
 UI/UX: Lottie Animations
-
 Database: Local storage for scan history
 
-Dependencies
 
+Dependencies
 Make sure to include the following dependencies in your build.gradle
 (Module: app):
 
@@ -59,33 +55,17 @@ git clone - repo usrl
 Usage
 
 Perform a Scan
-
 Open the app and click Scan to analyze installed applications.
-
 Results will show a list of potential threats and permissions used.
-
 View Threat Details
-
 Click on any app in the scan results to view its permissions and VirusTotal report.
-
 Clean Temporary Files
-
 Navigate to the Cleanup section and remove unnecessary files to free up space.
 
-Export Scan History
-
-Generate a PDF report of detected threats for future reference.
-
 Contribution Guidelines
-
 We welcome contributions! To contribute:
-
 Fork the Repository
-
 Create a Branch (git checkout -b feature-new-feature)
-
 Commit Changes (git commit -m 'Added new feature')
-
 Push to Branch (git push origin feature-new-feature)
-
 Submit a Pull Request
