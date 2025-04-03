@@ -69,3 +69,7 @@ Create a Branch (git checkout -b feature-new-feature)
 Commit Changes (git commit -m 'Added new feature')
 Push to Branch (git push origin feature-new-feature)
 Submit a Pull Request
+
+Outputs :-
+
+![WhatsApp Image 2025-04-03 at 14 04 35](https://github.com/user-attachments/assets/eaaad5de-23d1-426a-bc1a-1cdd6c081295)
