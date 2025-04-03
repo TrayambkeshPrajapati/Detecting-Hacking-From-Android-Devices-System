@@ -73,3 +73,13 @@ Submit a Pull Request
 Outputs :-
 
 ![WhatsApp Image 2025-04-03 at 14 04 35](https://github.com/user-attachments/assets/eaaad5de-23d1-426a-bc1a-1cdd6c081295)
+
+![WhatsApp Image 2025-04-03 at 14 04 34 (1)](https://github.com/user-attachments/assets/7c552571-97e3-418f-a873-f55258b30492)
+
+![WhatsApp Image 2025-04-03 at 14 04 34](https://github.com/user-attachments/assets/cb57ff96-93aa-463f-9c8e-ce569c808c19)
+
+![WhatsApp Image 2025-04-03 at 14 04 33 (2)](https://github.com/user-attachments/assets/0c8e5d1e-d2bf-4192-90b7-0b9ffb3728b5)
+
+![WhatsApp Image 2025-04-03 at 14 04 33 (1)](https://github.com/user-attachments/assets/560939a0-bf80-427e-a977-ff8b17252d45)
+
+![WhatsApp Image 2025-04-03 at 14 04 33](https://github.com/user-attachments/assets/05040b0e-b6af-41b2-bfa6-3c908cc73a4d)
